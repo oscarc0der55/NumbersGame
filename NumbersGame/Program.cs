@@ -164,6 +164,7 @@ namespace NumbersGame
                     //Clears the console of text so that it doesnt get cluttered
                     Console.Clear();
                     Console.WriteLine("Restarting game");
+                    //this int life = 0, is just a way to reset life if you get it right.
                     int life = 0;
                     return;
 
